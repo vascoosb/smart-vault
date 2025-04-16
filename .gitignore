@@ -1,0 +1,7 @@
+*.zip
+*.tfstate
+*.tfstate.*
+.terraform/
+.out.json
+aws_keys.txt
+.env
