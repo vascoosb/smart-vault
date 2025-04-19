@@ -1,4 +1,4 @@
-# Smart Vault (Automated EC2 Backups with Terraform) In Progress
+# Smart Vault - Automated EC2 Backups with Terraform
 An Infrastructure as Code (IaC) solution to automate EC2 snapshots and manage retention.
 
 ## Features
